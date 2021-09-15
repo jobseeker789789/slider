@@ -1,0 +1,1 @@
+# slider-CSS-component
